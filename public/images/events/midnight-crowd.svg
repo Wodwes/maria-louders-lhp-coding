@@ -1,0 +1,21 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="#09090B"/>
+<rect x="74" y="74" width="1452" height="752" rx="44" fill="url(#paint0_linear)"/>
+<circle cx="302" cy="218" r="118" fill="#93C5FD"/>
+<circle cx="1278" cy="244" r="96" fill="#F9A8D4"/>
+<path d="M160 726C254 598 377 534 530 534C679 534 802 596 900 720H160V726Z" fill="#111827"/>
+<path d="M700 726C801 582 936 506 1104 506C1269 506 1394 579 1480 726H700Z" fill="#0F172A"/>
+<path d="M252 426L364 532L472 392L596 552L714 358L844 534L982 354L1114 478L1246 314L1366 452" stroke="#F8FAFC" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M214 466L336 572L444 444L576 588L706 406L836 574L966 408L1090 522L1224 364L1352 500" stroke="#A7F3D0" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 18"/>
+<text x="180" y="258" fill="#E4E4E7" font-family="Arial, sans-serif" font-size="60" letter-spacing="10">HIGH ENERGY SERIES</text>
+<text x="174" y="402" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="180" font-weight="700">MIDNIGHT</text>
+<text x="174" y="548" fill="#A7F3D0" font-family="Arial, sans-serif" font-size="180" font-weight="700">CROWD</text>
+<text x="184" y="644" fill="#D4D4D8" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">LIVE SOUND / SOLD OUT FEEL / MOTION IN EVERY FRAME</text>
+<defs>
+<linearGradient id="paint0_linear" x1="136" y1="128" x2="1402" y2="764" gradientUnits="userSpaceOnUse">
+<stop stop-color="#111827"/>
+<stop offset="0.48" stop-color="#312E81"/>
+<stop offset="1" stop-color="#0F172A"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="#F4EAD5"/>
+<rect x="80" y="80" width="1440" height="740" rx="40" fill="#112433"/>
+<circle cx="1170" cy="294" r="198" fill="#FF7A59"/>
+<circle cx="1170" cy="294" r="108" fill="#F4EAD5"/>
+<path d="M1114 88L1126 180" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1246 104L1212 190" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1360 166L1284 222" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1430 286L1338 288" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1384 410L1308 358" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1262 480L1230 394" stroke="#F4EAD5" stroke-width="8"/>
+<path d="M1114 494L1128 402" stroke="#F4EAD5" stroke-width="8"/>
+<text x="174" y="246" fill="#F4EAD5" font-family="Arial, sans-serif" font-size="58" letter-spacing="8">CURATED FOR BRIGHTER DAYS</text>
+<text x="164" y="388" fill="#F4EAD5" font-family="Arial, sans-serif" font-size="176" font-weight="700">SUNBURST</text>
+<text x="164" y="540" fill="#FFCD73" font-family="Arial, sans-serif" font-size="176" font-weight="700">POSTER</text>
+<text x="172" y="644" fill="#E4D8BF" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">FOR WORKSHOPS, EXHIBITIONS, AND WIDE-OPEN PROGRAMS</text>
+</svg>

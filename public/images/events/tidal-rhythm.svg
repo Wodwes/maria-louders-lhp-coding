@@ -1,0 +1,19 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="#071A26"/>
+<rect x="74" y="74" width="1452" height="752" rx="44" fill="url(#paint0_linear)"/>
+<path d="M116 662C256 574 418 550 602 590C788 630 948 616 1082 548C1218 480 1354 386 1490 266V826H116V662Z" fill="#0E3146"/>
+<path d="M118 572C270 484 430 458 598 494C742 526 876 528 1000 500C1147 468 1308 382 1484 242" stroke="#CFFAFE" stroke-width="14" stroke-linecap="round"/>
+<path d="M124 622C286 542 444 526 598 572C742 614 874 618 994 586C1122 552 1278 472 1462 346" stroke="#67E8F9" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 20"/>
+<circle cx="322" cy="252" r="150" fill="#164E63"/>
+<circle cx="322" cy="252" r="92" fill="#CFFAFE"/>
+<text x="176" y="400" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="178" font-weight="700">TIDAL</text>
+<text x="176" y="548" fill="#67E8F9" font-family="Arial, sans-serif" font-size="178" font-weight="700">RHYTHM</text>
+<text x="180" y="656" fill="#C7D2D9" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">FLUID SHAPES FOR NETWORKING FLOWS AND LONG-FORM PROGRAMS</text>
+<defs>
+<linearGradient id="paint0_linear" x1="150" y1="122" x2="1398" y2="754" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E293D"/>
+<stop offset="0.5" stop-color="#0C4456"/>
+<stop offset="1" stop-color="#0A1C2A"/>
+</linearGradient>
+</defs>
+</svg>

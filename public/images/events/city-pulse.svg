@@ -1,0 +1,22 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="900" fill="#111827"/>
+<rect x="76" y="76" width="1448" height="748" rx="42" fill="#FAF7F0"/>
+<rect x="140" y="140" width="1320" height="620" rx="30" fill="url(#paint0_linear)"/>
+<path d="M180 610H1410" stroke="#F2E8CF" stroke-width="2" stroke-dasharray="10 14"/>
+<path d="M208 614L336 450L472 560L620 330L755 478L892 270L1068 498L1216 360L1380 494" stroke="#F7C66C" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="286" y="264" width="66" height="346" fill="#89D3D1"/>
+<rect x="384" y="206" width="66" height="404" fill="#5AB0E2"/>
+<rect x="1118" y="174" width="72" height="436" fill="#F08A5D"/>
+<rect x="1234" y="110" width="72" height="500" fill="#E85D75"/>
+<text x="206" y="280" fill="#FAF7F0" font-family="Arial, sans-serif" font-size="64" letter-spacing="8">GLOBAL</text>
+<text x="206" y="396" fill="#FAF7F0" font-family="Arial, sans-serif" font-size="186" font-weight="700">CITY</text>
+<text x="206" y="548" fill="#F7C66C" font-family="Arial, sans-serif" font-size="186" font-weight="700">PULSE</text>
+<text x="208" y="654" fill="#D4D4D8" font-family="Arial, sans-serif" font-size="34" letter-spacing="6">DISCOVER WHAT'S HAPPENING ACROSS THE MAP</text>
+<defs>
+<linearGradient id="paint0_linear" x1="223" y1="168" x2="1350" y2="710" gradientUnits="userSpaceOnUse">
+<stop stop-color="#14325C"/>
+<stop offset="0.55" stop-color="#1F556C"/>
+<stop offset="1" stop-color="#251B3E"/>
+</linearGradient>
+</defs>
+</svg>
